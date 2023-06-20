@@ -34,8 +34,28 @@
 
 ### Asset 
 
-Background :  'https://e0.pxfuel.com/wallpapers/790/952/desktop-wallpaper-mountains-nature-landscape-digital-art-minimal.jpg'
+Background :   
+'https://e0.pxfuel.com/wallpapers/790/952/desktop-wallpaper-mountains-nature-landscape-digital-art-minimal.jpg'
 
-Bongo Cat : "https://custom-doodle.com/wp-content/uploads/doodle/bongo-cat-pixel/bongo-cat-pixel-doodle.gif"
+Bongo Cat :  
+"https://custom-doodle.com/wp-content/uploads/doodle/bongo-cat-pixel/bongo-cat-pixel-doodle.gif"
+
+Todos :
+```js
+[
+    { task: "Wash your face" },
+    { task: "Eat and get energy!" },
+    { task: "Listening to focus music" },
+    { task: "Learn react native" },
+    { task: "Learn RN component" },
+    { task: "Learn scrollview" },
+    { task: "Learn flatlist" },
+    { task: "Learn gesture handler" },
+    { task: "Learn rn navigation" },
+    { task: "Learn mongodb" },
+    { task: "Learn redis" },
+    { task: "Focus on final project idea" },
+  ]
+```
 
 ![demo](./demo.png)
